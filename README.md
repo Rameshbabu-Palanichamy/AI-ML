@@ -1,2 +1,2 @@
 # AI-ML
-Demo
+Projects on Celcius to Faren, Revenue Predicetion using ANN and Linear Regression.
